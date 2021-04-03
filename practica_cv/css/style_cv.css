@@ -1,0 +1,37 @@
+header {
+    
+   
+    font-family: 'Lexend', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    background-color: tan;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+main {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    line-height: 30px;
+}
+.secciones-cv {font-family: 'Lexend', sans-serif;
+    text-decoration: underline;
+    background-color: tan;
+    font-weight: bold;
+    line-height: 50px;
+   
+}
+
+.estilo-subtítulo {font-family: 'Lexend', sans-serif;
+       font-style: italic;
+    line-height: 25px;
+}
+.estilo-descripcion {font-family: 'Lexend', sans-serif;
+   }
+
+footer {font-family: 'Lexend', sans-serif;
+    color: black;
+    background-color: tan;
+    text-align: center;
+    font-weight: bold;
+}
